@@ -1,0 +1,125 @@
+.login-container {
+    border: 1px solid #ccc;
+    width: 400px;
+    margin: 50px auto;
+    padding: 30px;
+    border-radius: 5px;
+    background-color: #fff;
+  }
+  
+  .login-container h1 {
+    text-align: center;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .input-wrapper {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    position: relative;
+  }
+  
+  .input-wrapper i {
+    position: absolute;
+    left: 10px;
+    color: #aaa;
+  }
+  
+  .form-group input {
+    width: 100%;
+    padding: 10px 10px 10px 35px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .login-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 30px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .login-button:hover {
+    background-color: #0069d9;
+  }
+  
+  p {
+    text-align: center;
+  }
+  .login-container {
+    border: 1px solid #ccc;
+    width: 400px;
+    margin: 50px auto;
+    padding: 30px;
+    border-radius: 5px;
+    background-color: #fff;
+  }
+  
+  .login-container h1 {
+    text-align: center;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .input-wrapper {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    position: relative;
+  }
+  
+  .input-wrapper i {
+    position: absolute;
+    left: 10px;
+    color: #aaa;
+  }
+  
+  .form-group input {
+    width: 100%;
+    padding: 10px 10px 10px 35px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .login-button {
+    background-color: #7a828a;
+    color: #fff;
+    border: none;
+    padding: 10px 30px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    width: 250px;
+  }
+  
+  .login-button:hover {
+    background-color: #165aa2;
+  }
+  
+  p {
+    text-align: center;
+  }
+
+    
